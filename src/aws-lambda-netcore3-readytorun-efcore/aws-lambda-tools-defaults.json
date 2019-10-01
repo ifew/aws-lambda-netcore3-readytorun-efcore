@@ -1,0 +1,14 @@
+﻿{
+  "Information" : [
+    "A simple function that takes a Name in string and does a Hello Name"
+  ],
+
+  "profile":"default",
+  "region" : "ap-southeast-1",
+  "configuration" : "Release",
+  "framework" : "provided",
+  "function-runtime":"provided",
+  "function-memory-size" : 128,
+  "function-timeout" : 60,
+  "function-handler" : "provided"
+}
